@@ -1,0 +1,128 @@
+{
+  "raka pratama_14": {
+    "name": "Raka Pratama",
+    "absen": "14",
+    "className": "7A",
+    "gender": "laki-laki",
+    "tokens": 1550,
+    "equippedWeapon": "blaster_default",
+    "equippedCostume": "default",
+    "inventoryWeapons": [
+      "blaster_default"
+    ],
+    "inventoryCostumes": [
+      "default"
+    ],
+    "scores": {
+      "maze1": 20,
+      "runner": 50,
+      "maze2": 40,
+      "fungame2": 30,
+      "maze3": 50
+    },
+    "stage": "maze1",
+    "lastUpdated": "2026-10-19T14:52:12.661Z",
+    "feedback": {
+      "id": "fb_1792421532653_w7ki5",
+      "name": "Raka Pratama",
+      "absen": "14",
+      "className": "7A",
+      "gender": "laki-laki",
+      "rating": 5,
+      "category": "🎮 Gameplay & Keseruan",
+      "message": "Uji coba rekap berjalan lancar!",
+      "submittedAt": "2026-10-19T14:52:12.653Z"
+    }
+  },
+  "cyraizu_24": {
+    "name": "Cyraizu",
+    "absen": "24",
+    "className": "9A",
+    "gender": "laki-laki",
+    "tokens": 1000,
+    "equippedWeapon": "weapon_greatsword",
+    "equippedCostume": "costume_chikawa",
+    "inventoryWeapons": [
+      "blaster_default",
+      "gun_royal",
+      "weapon_greatsword"
+    ],
+    "inventoryCostumes": [
+      "default",
+      "costume_chikawa"
+    ],
+    "scores": {
+      "maze1": 0,
+      "runner": 25,
+      "maze2": 6,
+      "fungame2": 0,
+      "maze3": 0
+    },
+    "stage": "maze1",
+    "lastUpdated": "2026-10-18T07:14:06.876Z"
+  },
+  "fay_01": {
+    "name": "Fay",
+    "absen": "01",
+    "className": "Kelas 7",
+    "gender": "perempuan",
+    "tokens": 1060,
+    "equippedWeapon": "weapon_scythe",
+    "equippedCostume": "costume_peach",
+    "inventoryWeapons": [
+      "blaster_default",
+      "gun_royal",
+      "weapon_greatsword",
+      "weapon_scythe"
+    ],
+    "inventoryCostumes": [
+      "default",
+      "costume_chikawa",
+      "costume_peach"
+    ],
+    "scores": {
+      "maze1": 20,
+      "runner": 31,
+      "maze2": 9,
+      "fungame2": 29,
+      "maze3": 12
+    },
+    "stage": "maze1",
+    "lastUpdated": "2026-10-18T07:22:49.268Z",
+    "feedback": {
+      "id": "fb_1792419275432_74gso",
+      "name": "Fay",
+      "absen": "01",
+      "className": "7A",
+      "gender": "perempuan",
+      "rating": 5,
+      "category": "🎮 Gameplay & Keseruan",
+      "message": "Game-nya seru banget! Endingnya keren dan maze 3 menegangkan!",
+      "submittedAt": "2026-10-19T14:14:35.432Z"
+    }
+  },
+  "_feedbacks": [
+    {
+      "id": "fb_1792421532653_w7ki5",
+      "name": "Raka Pratama",
+      "absen": "14",
+      "className": "7A",
+      "gender": "laki-laki",
+      "rating": 5,
+      "category": "🎮 Gameplay & Keseruan",
+      "message": "Uji coba rekap berjalan lancar!",
+      "submittedAt": "2026-10-19T14:52:12.653Z"
+    },
+    {
+      "id": "fb_1792419275432_74gso",
+      "name": "Fay",
+      "absen": "01",
+      "className": "7A",
+      "gender": "perempuan",
+      "rating": 5,
+      "category": "🎮 Gameplay & Keseruan",
+      "message": "Game-nya seru banget! Endingnya keren dan maze 3 menegangkan!",
+      "submittedAt": "2026-10-19T14:14:35.432Z"
+    }
+  ]
+}

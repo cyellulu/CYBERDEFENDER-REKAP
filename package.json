@@ -1,0 +1,12 @@
+{
+  "name": "cyberdefender-backend-rekap",
+  "version": "1.0.0",
+  "description": "Backend Server & Rekap Nilai Siswa untuk Game Cyber Defender",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["game", "cyberdefender", "rekap", "education"],
+  "author": "",
+  "license": "ISC"
+}
